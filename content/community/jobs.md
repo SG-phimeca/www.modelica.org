@@ -10,6 +10,7 @@ Please, use a GitHub pull request to [this file](https://github.com/modelica/old
 
 | Country | Area | Organization | Topic |
 | --- | --- | --- | --- |
+| France | Paris | Phimeca | System Modelling & Machine Learning -- Full time position [Job description (in French)](https://www.phimeca.com/wp-content/uploads/2024/01/CDI_Phimeca_Paris_2024.pdf) |
 | Austria | Vienna | [Austrian Institute of Technology](https://www.ait.ac.at/karriere/workait) | a number of job openings |
 | France, Germany, USA | various | [Siemens](http://www.siemens.com/plm) | a number of job openings, check the [general careers page](http://www.plm.automation.siemens.com/en_us/about_us/careers/index.shtml) |
 | France | Paris area | Veolia Research and Innovation | 2 permanent positions to initiate the development of Modelica libraries for core activities at Veolia (Energy, Waste, Water)<br><br>* lead developper / product owner<br>    * the challenge: transition to systems engineering methods and tools for a better planet, [more details on the positions](https://drive.google.com/folderview?id=0B7YfpHsP1tInb1hHbWFYWjE0LXM&usp=sharing) |
